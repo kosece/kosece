@@ -1,5 +1,7 @@
 👋 Hi, I’m @kosece
+
 🌱 I’m currently learning HTML, CSS and Javascript.
+
 📫 You can reach me on Discord (Kosece#6415)
 
 <!---
