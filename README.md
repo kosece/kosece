@@ -1,8 +1,8 @@
 👋 Hi, I’m @kosece
 
-🌱 I’m currently learning HTML, CSS and Javascript.
+🌱 I’m a Computer Science student at UNRC (Universidad Nacional de Rio Cuarto).
 
-📫 You can reach me on Discord (Kosece#6415)
+📫 You can reach me on Discord (@kosece).
 
 <!---
 kosece/kosece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
